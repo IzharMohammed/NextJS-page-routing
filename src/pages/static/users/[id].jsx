@@ -1,3 +1,4 @@
+        /* static site Generation */
 const UsersInfo = (props) => {
    
   return (

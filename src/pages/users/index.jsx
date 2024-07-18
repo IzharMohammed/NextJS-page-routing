@@ -1,3 +1,5 @@
+                   /* Client side rendering */
+                   
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import useSWR from "swr";

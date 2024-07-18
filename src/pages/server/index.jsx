@@ -1,3 +1,4 @@
+        /*   Server side Rendering  */
 const UserInfo = (props) => {
   console.log(props.data.users);
   return (
